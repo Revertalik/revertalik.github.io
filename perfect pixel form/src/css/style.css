@@ -16,7 +16,6 @@ body {
 	border: solid #cfdede 1px;
 }
 .create {
-	
 	background-color: #01b3b3;
 	color: white;
 	font-size: 12px;
@@ -24,55 +23,61 @@ body {
 	position: absolute;
 	left: 155px;
 	bottom: 460px;
-	/*border-top: solid #01b3b3 2px; */
+	border-top: solid #01b3b3 2px; 
 }
 .one, .two, .three {
 	font-size: 12px;
 	position: relative;
 	top: 7px;
-	right: 0px;
+	right: -1px;
 	font-weight: bold;
 }
 .two, .three {
 	position: relative;
-	top: 5px;
+	top: 3px;
 }
 .three {
-	top: 6px;
+	top: 2px;
 }
 form {
-	margin-left: 29px;
+	margin-left: 28px;
 	margin-top: 43px;
 	display: block;
 	text-align: left;
-	
 }
 input {
 	margin-bottom: 27px;
-	height: 30px;
+	height: 32px;
 	background-image: url(../img/bg.jpg);
-	width: 260px;
+	width: 262px;
 	border: solid #cfdede 1px;
 	position: relative;
-	top: 18px;
+	top: 17px;
 	font-weight: normal;
 	font-style: italic;
 	font-size: 12px;
 	border-radius: 2px;
 }
+.password {
+	position: relative;
+	top: 15px;
+}
+.password2 {
+	position: relative;
+	top: 13px;
+}
 .star {
 	color: #01b3b3;
 }
 button {
-	width: 260px;
+	width: 262px;
 	background-color: #01c4c4;
 	color: white;
 	padding: 13px 33px;
-	
 	border-radius: 3px;
 	position: relative;
 	font-style: bold;
-	top: 26px;
+	top: 20px;
 }
 
 
