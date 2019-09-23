@@ -12,7 +12,7 @@
 
 ###pixel perfect form
 
-[perfect pixel form](revertalik.github.io/perfect pixel form/src/) . 
+[perfect pixel form](revertalik.github.io/perfectpixelform/src/) . 
 
 ###Макет "Гипсолит штукатурка стен" bootstrap 3.7.7
 
