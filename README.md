@@ -19,4 +19,4 @@
 
 
 
-[slider-fotorama](revertalik.github.io/slider/) . 
+[slider-fotorama](revertalik.github.io/slider/slider.html) . 
