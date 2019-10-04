@@ -11,7 +11,7 @@
 
 
 
-[perfect pixel form](revertalik.github.io/perfectpixelform/src/) . 
+[perfect pixel form](revertalik.github.io/perfectpixelform/src/index.html) . 
 
 
 
