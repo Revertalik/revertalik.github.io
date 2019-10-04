@@ -16,4 +16,8 @@
 
 ###Макет "Гипсолит штукатурка стен" bootstrap 3.7.7
 
-[maket Gipsolit](revertalik.github.io/github/src/)
+[maket Gipsolit](revertalik.github.io/github/src/) . 
+
+###slider fotorama
+
+[slider-fotorama](revertalik.github.io/slider/) . 
