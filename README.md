@@ -1,23 +1,22 @@
 # revertalik.github.io
 ## Виталий Дьячков . 
 ##Домашние работы, эксперименты по верстке.  
-
-###html/css_01 . 
+ 
 
 [html/css_01](revertalik.github.io/practice html css/) . 
 
-###bootstrap_01 . 
+ 
 
 [bootstrap_01](revertalik.github.io/practice bootstrap/) .
 
-###pixel perfect form
+
 
 [perfect pixel form](revertalik.github.io/perfectpixelform/src/) . 
 
-###Макет "Гипсолит штукатурка стен" bootstrap 3.7.7
+
 
 [maket Gipsolit](revertalik.github.io/github/src/) . 
 
-###slider fotorama
+
 
 [slider-fotorama](revertalik.github.io/slider/) . 
