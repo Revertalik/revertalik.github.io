@@ -15,7 +15,7 @@
 
 
 
-[maket Gipsolit](revertalik.github.io/github/src/) . 
+[maket Gipsolit](revertalik.github.io/github/src/index.html) . 
 
 
 
