@@ -43,6 +43,12 @@ a:focus {
 section {
   padding: 10rem 0;
 }
+.section-header {
+  text-align: center;
+  margin: 2rem 0 10rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+  font-size: 3.6rem;
+}
 .main {
   padding: 3rem 0.5rem;
   background: #ffffff url(../img/main-bg.jpg) center center no-repeat;
@@ -140,6 +146,48 @@ section {
   height: 7rem;
   line-height: 7rem;
   color: #1a1820;
+}
+.features-block {
+  text-align: center;
+}
+.features h3 {
+  font-family: 'ProximaNova_bold', sans-serif;
+  font-size: 2rem;
+}
+.features p {
+  font-size: 1.4rem;
+  display: inline-block;
+  width: 80%;
+}
+.features-img {
+  height: 8rem;
+  margin-bottom: 3rem;
+}
+.features-img img {
+  display: block;
+  margin: 0 auto;
+}
+.slick-active {
+  outline: none;
+}
+.arrow {
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  z-index: 99;
+  width: 2rem;
+  height: 2rem;
+  border: none;
+}
+.prev {
+  left: 0;
+  background: url(../img/left-ar.svg) center no-repeat;
+  background-size: 70%;
+}
+.next {
+  right: 0;
+  background: url(../img/right-ar.svg) center no-repeat;
+  background-size: 70%;
 }
 @media (max-width: 991px) {
   .main {
